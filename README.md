@@ -1,19 +1,19 @@
 <p align="center">
-  <a href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2">
+  <a href="https://whatsapp.com/channel/0029VbB4g3eAe5VslZgJdq38">
     <img alt=Support weight="10" src="https://i.ibb.co/4Z1G2Bwz/file-XKVy-Fx-YD1t-Divb-Gsg43t-YE.webp"> 
     </p>
 <h1 align="center">ELITE-PRO-V2</h1>
 <p align="center"> 
     </p>
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2" target="_blank">
+  <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029VbB4g3eAe5VslZgJdq38" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a align="center">
-  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
+  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VbB4g3eAe5VslZgJdq38"targetet="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a aria-label="Chat me" href="https://t.me/elitepro_md" target="_blank">
-    <img alt="telegram" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
+<a aria-label="Chat me" href="8801719741293" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
       
@@ -95,7 +95,7 @@ Paste this after the installation
 ---
 
   ## DESCRIPTION
-I'm Elite-Pro a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any deployment site. 😜
+Use Sanju Bot and enjoy. 😜
 
  --- 
 - Star ⭐ repo if you like this bot.
