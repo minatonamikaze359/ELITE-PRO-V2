@@ -2,7 +2,7 @@
   <a href="https://chat.whatsapp.com/FBB6Yj2xGoa9hacDkzBX6l">
     <img alt=Support weight="10" src="https://i.ibb.co/4Z1G2Bwz/file-XKVy-Fx-YD1t-Divb-Gsg43t-YE.webp"> 
     </p>
-<h1 align="center">ELITE-PRO-V2</h1>
+<h1 align="center">SANJU-BOT-2</h1>
 <p align="center"> 
     </p>
 <p align="center">
