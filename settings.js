@@ -3,17 +3,17 @@ const chalk = require('chalk')
 
 //BOT SETTINGS//
 global.xprefix = '.'
-global.ownername = 'ElitePro'
-global.botname = 'ELITE-PRO-V2'
-global.ytname = "YT: EliteProTechs"
-global.socialm = "GitHub: EliteProTech"
+global.ownername = 'TAMIM'
+global.botname = 'SANJU BOT'
+global.ytname = "YT: GAME VERSE HQ"
+global.socialm = "GitHub: minatonamikaze359"
 global.location = "Port Harcourt, Nigeria"
-global.ownernumber = '2348109263390'
+global.ownernumber = '8801719741293'
 
 //BOT SETTINGS 2//
-global.premium = ["2348109263390"] //Premium 
-global.websitex = "https://youtube.com/@eliteprotechs"
-global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
+global.premium = ["8801719741293"] //Premium 
+global.websitex = "https://youtube.com/@gameversehq001"
+global.wagc = "https://whatsapp.com/channel/0029VbB4g3eAe5VslZgJdq38"
 global.themeemoji = '👨🏼‍💻'
 global.wm = "ELITE-PRO-V2"
 global.botscript = 'https://github.com/EliteProTech/Elite-Pro-V2'
