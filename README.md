@@ -9,7 +9,7 @@
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/FBB6Yj2xGoa9hacDkzBX6l" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a align="center">
-  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VbB4g3eAe5VslZgJdq38"targetet="_blank">
+  <a aria-label="Follow Channel" href="https://chat.whatsapp.com/FBB6Yj2xGoa9hacDkzBX6l"targetet="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a aria-label="Chat me" href="8801719741293" target="_blank">
