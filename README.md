@@ -84,11 +84,11 @@ Paste this after the installation
 
 <p align="Left">
     <a align="center">
-  <a aria-label="WEBSITE" href="https://elitepro-website.vercel.app/" target="_blank">
-    <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
+  <a aria-label="Channel" href="https://whatsapp.com/channel/0029VbB4g3eAe5VslZgJdq38="_blank">
+    <img alt="Sanju-Bot-WEB" src="" />
 </a>
-<a aria-label="OTHER REPO" href="https://github.com/elite-md/ELITE-PRO-V1" target="_blank">
-    <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
+<a aria-label="Github Account" href="https://github.com/minatonamikaze359" target="_blank">
+    <img alt="https://chat.whatsapp.com/FBB6Yj2xGoa9hacDkzBX6l" />
   </a>
 </p>
 
